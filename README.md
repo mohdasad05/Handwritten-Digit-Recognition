@@ -1,1 +1,1 @@
-# TAI-IP-Handwritten-Digit-Recognition
+# Handwritten-Digit-Recognition
